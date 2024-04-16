@@ -1,4 +1,4 @@
-<h1> 😎Delta </h1>
+<h1> 😎Bravo </h1>
 <details>
   <summary><h1>Participantes</h1></summary>
   <hr>
